@@ -1,7 +1,7 @@
 import { ComponentProps, ElementType } from "react";
 import { styled } from "../styles";
 
-export const Button = styled('Button', {
+export const Button = styled('button', {
     all: 'unset',
     borderRadius: '$sm',
     fontSize: '$sm',
